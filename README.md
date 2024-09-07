@@ -4,6 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadlin-azhary-b00b80143/)
 
 <div align="center">
-*“Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”*
-*Linus Torvalds*
+<em>“Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”*</em>
+<em>Linus Torvalds</em>
 </div>
