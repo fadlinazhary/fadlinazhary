@@ -6,6 +6,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fadlindff/)
 
 <div align="center">
-<em>“Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”</em><br />
-<em style="color: #758694;">Linus Torvalds</em>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
