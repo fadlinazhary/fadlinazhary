@@ -7,5 +7,5 @@
 
 <div align="center">
 <em>“Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”</em><br />
-<em>Linus Torvalds</em>
+<em style="color: #758694;">Linus Torvalds</em>
 </div>
