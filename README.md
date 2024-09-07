@@ -1,6 +1,6 @@
 <div align="center">
 
-![Violet Evergarden!](assets/violet-evergarden.gif)
+![Violet Evergarden!](assets/violet-evergarden.jpg)
   
 </div>
 <div align="center">
