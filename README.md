@@ -12,7 +12,7 @@
 
 </div>
 
-- 🌐 I am a web developer and also a freelancer!
+- 🌐 A web developer and freelancer!
 - 🗒️ Currently learning [Laravel](https://laravel.com) and [Next.js](https://nextjs.org/)
-- 🐧 I am a Linux user, currently using [EndeavourOS](https://endeavouros.com/) (an Arch-based distro)
-- ♥️ Violet Evergarden fan (I am her boyfriend btw)
+- 🐧 Linux user btw, I use [EndeavourOS](https://endeavouros.com/) (an Arch-based distro)
+- ♥️ Violet Evergarden's boyfriend
