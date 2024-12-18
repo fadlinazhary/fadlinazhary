@@ -10,6 +10,6 @@
 </div>
 
 - 🌐 A web developer and freelancer!
-- 🗒️ Currently learning [Laravel](https://laravel.com) and [Next.js](https://nextjs.org/)
-- 🐧 Linux user btw, I use [EndeavourOS](https://endeavouros.com/) (an Arch-based distro)
+- 🗒️ Currently learning [Laravel](https://laravel.com), [Next.js](https://nextjs.org/) and [WordPress](https://wordpress.org/)
+- 🐧 I use [Arch Linux](https://archlinux.org/) btw
 - ♥️ Violet Evergarden's boyfriend
