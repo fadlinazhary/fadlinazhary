@@ -17,9 +17,3 @@
 
 <hr>
 
-<div align="center">
-
-## Social Media
-
-</div>
-
